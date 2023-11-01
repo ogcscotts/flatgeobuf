@@ -1,7 +1,7 @@
 :CSname: FlatGeobuf
 :Title: {CSname} Community Standard Work Item Justification
 :titletext: Justification for FlatGeobuf as an OGC Community Standard
-:doctype: book
+//:doctype: book
 :encoding: utf-8
 :lang: en
 :toc:
@@ -67,9 +67,7 @@ The closest OGC Standard comparable to FlatGeobuf is GML in Simple Features prof
 
 == Alignment with OGC Standards Baseline
 
-////
-Describe where this proposed standard fits with respect to the existing OGC standards baseline and standards in development in the OGC and whether this proposed standard may compete with or enhance an existing OGC standard.
-////
+FlatGeobuf does represent Simple Features per OpenGIS Implementation Specification for Geographic information - Simple feature access - Part 1: Common architecture 1.2.1. 
 
 == Evidence of implementation
 
@@ -147,7 +145,7 @@ Is the proposed Community Standard currently publicly available?
 * [x] Yes
 * [ ] No
 
-URL:
+URL: https://github.com/flatgeobuf/flatgeobuf
 
 == Supporting OGC Members
 
